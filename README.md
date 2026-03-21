@@ -1,3 +1,4 @@
+![Bannière](images/banner.png)
 # 📄 CV – Awa Gning
 
 Ce dépôt contient mon CV pour ma recherche d'alternance en développement web, support informatique ou systèmes d’information.
